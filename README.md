@@ -12,7 +12,7 @@ Burak Firik
 Here's a walkthrough of implemented user stories:
 
 
-<img src='https://github.com/burakfirik/SnapChat/blob/master/snapchat.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/burakfirik/ToDo/blob/master/todo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 Copyright 2017 Burak Firik
